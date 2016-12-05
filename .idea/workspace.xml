@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89939674-6d5b-494a-a795-154be31b4b6d" name="Default" comment="m">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Edit_map_image.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crash_it.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prob_testing.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Evolution of schedule.png" afterPath="$PROJECT_DIR$/Evolution of schedule.png" />
+    <list default="true" id="89939674-6d5b-494a-a795-154be31b4b6d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wandeltijden.csv" afterPath="$PROJECT_DIR$/Wandeltijden.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/evaluator.py" afterPath="$PROJECT_DIR$/evaluator.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/genetic_runner.py" afterPath="$PROJECT_DIR$/genetic_runner.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/read_data.py" afterPath="$PROJECT_DIR$/read_data.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visit_simulator.py" afterPath="$PROJECT_DIR$/visit_simulator.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/visitor.py" afterPath="$PROJECT_DIR$/visitor.py" />
     </list>
     <ignored path="Efteling_app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -488,6 +477,14 @@
       <option name="presentableId" value="Default" />
       <updated>1479230539731</updated>
     </task>
+    <task id="LOCAL-00001" summary="m">
+      <created>1480933987739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1480933987739</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -793,6 +790,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -800,6 +798,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#55#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
